@@ -6,7 +6,7 @@ This Python project involves reading data from an Excel file containing multiple
 **Getting Started:**
 
 **Prerequisites:**
-- Python installed on your system (version 3.x)
+- Python installed on your system (version 3.12.2)
 - pandas library installed (`pip install pandas`)
 
 **Installing:**
@@ -30,12 +30,13 @@ This Python project involves reading data from an Excel file containing multiple
 - This project can be deployed on any system with Python installed. It can be integrated into larger data analysis pipelines or used standalone for cleaning and analyzing car database-related data.
 
 **Author:**
-- [Your Name]
-- [Contact Information]
-- [GitHub Profile]
+- [Mansi Patel]
+- [mansip1435@gmail.com]
+- [MansiP1435]
 
 **License:**
-- [Specify the license under which the project is distributed, e.g., MIT License]
+- This project is licensed under the MIT License
 
 **Acknowledgement:**
-- Mention any individuals, organizations, or libraries that you have used or referenced in your project. For example, acknowledge the use of the `pandas` library for data manipulation.
+- Inspiration
+- Pandas
