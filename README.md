@@ -32,7 +32,7 @@ This Python project involves reading data from an Excel file containing multiple
 **Author:**
 - [Mansi Patel]
 - [mansip1435@gmail.com]
-- [MansiP1435]
+- [https://github.com/MansiP1435]
 
 **License:**
 - This project is licensed under the MIT License
